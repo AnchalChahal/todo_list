@@ -1,0 +1,15 @@
+.todo-btn{
+    width:10rem;
+    margin-left: 13rem;
+  
+
+}
+@media only screen and (max-width: 300px) {
+    .todo-btn{
+        margin-left: 5rem;
+    }
+    .TodoForm{
+        margin-left:5rem ;
+    }
+
+  }
